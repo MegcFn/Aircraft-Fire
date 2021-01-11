@@ -11,3 +11,5 @@ As the score increases the difficulty of the game will gradually increase. The s
 ### ゲーム説明: 
 矢印キーを使用して航空機を制御し、スペースボタンを押してフルスクリーン爆弾を使用します。
 スコアが上がるにつれてゲームの難易度が徐々に上がっていきます。システムはこれまでの最高スコアを保存します。
+
+#### ぜひお楽しみください!
